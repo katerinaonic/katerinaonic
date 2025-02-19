@@ -5,7 +5,7 @@
 - 👯 Я работаю аналитиком в ООО "Яндекс.Технологии"
 - 🤔 Высшее образование в области бухгалтерского учета и аудита
 - 🌏 Я изучаю английский язык
-- 💬 Связаться со мной можно в Telegram - @Onishhuk
+- 💬 Связаться со мной можно в Telegram - https://t.me/Onishhuk
 <!--
 **katerinaonic/katerinaonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
