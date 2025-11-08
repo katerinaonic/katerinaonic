@@ -1,24 +1,26 @@
-## Hi there 👋 я Екатерина Онищук начинающий Специалист по Data Science.
-- 🔭 Я прохожу годовой курс Специалист по Data Science в Яндекс.Практикуме.
-- ⚡ Оттачиваю навыки SQL на sql-ex.ru и изучаю углубленно Python
-- 👯 Я работаю аналитиком в ООО "Яндекс.Технологии"
-- 🤔 У меня образование в области бухгалтерского учета и аудита
-- 🌏 Я изучаю английский язык
+🙋🏻‍♀️ Introducing Myself
+
+## Hi there 👋 I am Ekaterina Onishchuk, a beginner Data Science Specialist.
+- 🔭 I'm taking the year-long Data Science Specialist course at Yandex.Practicum.
+- ⚡ I'm honing my SQL skills at sql-ex.ru and learning Python in depth.
+- 👯 I work as an analyst at Yandex Technologies LLC.
+- 🤔 I have a degree in accounting and auditing.
+- 🌏 I am studying English.
 
 
 
-📚 Проекты
+📚 Projects
   
-Добро пожаловать в мое портфолио, где я представляю свои проекты .
+Welcome to my portfolio, where I showcase my projects.
 
 
-🛠️ Инструменты
-- Язык: SQL, Python
-- База данных: PostgreSQL, MySQL
-- Визуализация: Tableau
+🛠️ Tools
+- Language: SQL, Python
+- Database: PostgreSQL, DBeaver, Jupyter Notebook.
+- Visualization: Tableau.
 
   
-👋🏻 Свяжитесь со мной
+👋🏻 Сonnect with Me:
 - 💬 Telegram - https://t.me/Onishhuk
 <!--
 
