@@ -1,5 +1,6 @@
 🙋🏻‍♀️ Introducing Myself
 
+
 ## Hi there 👋 I am Ekaterina Onishchuk, a beginner Data Science Specialist.
 - 🔭 I'm taking the year-long Data Science Specialist course at Yandex.Practicum.
 - ⚡ I'm honing my SQL skills at sql-ex.ru and learning Python in depth.
@@ -14,10 +15,12 @@
 Welcome to my portfolio, where I showcase my projects.
 
 
+
 🛠️ Tools
 - Language: SQL, Python
 - Database: PostgreSQL, DBeaver, Jupyter Notebook.
 - Visualization: Tableau.
+
 
   
 👋🏻 Сonnect with Me:
