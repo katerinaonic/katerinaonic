@@ -4,7 +4,7 @@
 ### Hi there 👋 My name is Ekaterina Onishchuk. I am a junior analyst.
 - 🔭 I'm taking the year-long analysis course at Yandex.Practicum.
 - ⚡ I'm honing my SQL skills at sql-ex.ru and learning Python in depth.
-- 👯 I work as an analyst at Yandex Technologies LLC.
+- 👯 I work as an anti-fraud analyst at Yandex Technologies LLC.
 - 🤔 I have a degree in accounting and auditing.
 - 🌏 I am studying English.
 
